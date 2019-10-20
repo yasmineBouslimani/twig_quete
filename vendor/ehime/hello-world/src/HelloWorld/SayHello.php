@@ -4,7 +4,7 @@ namespace HelloWorld;
 
 class SayHello
 {
-    public static function world()
+    public function world()
     {
         return 'Hello World, Composer!';
     }

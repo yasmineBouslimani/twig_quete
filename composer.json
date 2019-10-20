@@ -12,7 +12,7 @@
     },
     "autoload": {
         "psr-4": {
-            "App\\Wcs\\": "src/Wcs"
+            "App\\Wcs\\": "src/Wcs/"
         }
     }
 }
